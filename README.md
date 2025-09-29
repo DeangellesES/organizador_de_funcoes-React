@@ -18,10 +18,7 @@
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
   <li>Paradigma de programação Estruturado</li>
-  <li>Manipulação do DOM com JavaScript</li>
-  <li>reset css utilizado</li>
-  <li>JavaScript organizado em vários arquivos JS</li>
-  <li>tabelas criadas com table, thead, tbody, tr e th</li>
-  <li>pseudo elemento com content=""</li>
-  
+  <li>CSS nos components</li>
+  <li>utilização de props e useState sendo utilizados</li>
+  <li>nome, cargo, imagem e backgraund sendo criados dinamicamente nos cards dos colaboradores</li>
 </ul>
